@@ -1,6 +1,6 @@
-package.path = package.path .. ';.luarocks/share/lua/5.2/?.lua'
-  ..';.luarocks/share/lua/5.2/?/init.lua'
-package.cpath = package.cpath .. ';.luarocks/lib/lua/5.2/?.so'
+sudo_users = {92705454}
+sudo_users = {92705454}
+sudo_users = {92705454}
 
 require("./bot/utils")
 
